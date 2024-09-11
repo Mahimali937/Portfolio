@@ -7,9 +7,9 @@ const Timeline = () => {
       date: "June - August 2024",
       title: "Consolidated Edison | Network Engineer Intern",
       description: [
-        "Selected from a pool of <b>50+</b> individuals as Harlem YMCA Bai intern for Con Edison",
+        "Selected from a pool of <b>50+</b> individuals as <b>Harlem YMCA Bai</b> intern for Con Edison",
         "Architected and crafted a <b>Clipboard API</b> using <b>JavaScript, HTML,</b> and <b>CSS</b>, eliminating manual copying tasks and conserving about <b>20 minutes</b> daily for team members",
-        "Developed a PowerShell script to check for <b>100+</b> broken links and created a detailed <b>CSV report</b> with <b>Excel</b>, refining site navigation and saving <b>15 hours</b> of maintenance time monthly",
+        "Developed a <b>PowerShell</b> script to check for <b>100+</b> broken links and created a detailed <b>CSV report</b> with <b>Excel</b>, refining site navigation and saving <b>15 hours</b> of maintenance time monthly",
         "Facilitated the identification of unlabeled circuits, applying <b>OSI model</b> principles to streamline network troubleshooting and reducing <b>12 hours</b> of team effort during critical issues",
         "Applied <b>Git</b> protocols for <b>version control</b> and <b>code updates</b>, minimizing integration errors and avoiding <b>$1,000</b> in annual costs by preventing costly deployment mistakes"
       ],
@@ -44,7 +44,7 @@ const Timeline = () => {
         "Won a stock market simulation contest with a <b>36% ROI</b>, achieving a top performance among <b>25+</b> participants",
         "Transformed company branding, boosting customer engagement through <b>strategic positioning</b> and <b>market outreach</b>, adding <b>150+</b> new clients</b>",
         "Directed financial management, navigating complex challenges and making decisions that augmented financial performance, increasing profit by <b>$15,000</b> annually",
-        "Executed robust business plans and marketing strategies, resulting in a <b>40%</b> expansion in market share and a <b>30%</b> growth in revenue"
+        "Executed <b>robust business plans</b> and <b>marketing strategies</b>, resulting in a <b>40%</b> expansion in market share and a <b>30%</b> growth in revenue"
       ],
       expanded: false,
     },
@@ -53,7 +53,7 @@ const Timeline = () => {
       title: "Hellenic American Neighborhood Action Committee | Intern",
       description: [
         "Implemented multiple pandemic-related client storyboards and identified solutions that advanced client satisfaction by <b>20%</b> and incremented client engagement by <b>30%</b>",
-        "Introduced technology solutions to revitalize team processes, reinvigorating overall efficiency, liberating <b>20</b> hours per month",
+        "Introduced technology solutions to revitalize team processes, reinvigorating overall efficiency, liberating <b>20 hours per month</b>",
         "Administered group projects, driving timely completion and amplifying teamwork, culminating in a <b>25%</b> improvement in productivity",
         "Trained coworkers to enhance their knowledge and conflict resolution skills, which led to a <b>20%</b> rise in team collaboration",
       ],
