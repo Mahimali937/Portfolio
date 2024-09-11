@@ -4,19 +4,34 @@ import "./index.scss";
 const TechList = () => {
   const [devs] = useState([
     {
-      name: "Docker",
-      image:
-        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg",
-    },
-    {
       name: "Git",
       image:
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg",
     },
     {
+      name: "Replit",
+      image:
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg",
+    },
+    {
+      name: "Docker",
+      image:
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg",
+    },
+    {
+      name: "IntelliJ IDEA",
+      image:
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg",
+    },
+    {
       name: "Postman",
       image:
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg",
+    },
+    {
+      name: "VS Code",
+      image:
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg",
     },
   ]);
 

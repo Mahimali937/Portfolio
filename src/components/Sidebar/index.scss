@@ -30,17 +30,17 @@
     .logo{
         display: block; 
         padding: 8px 0; 
-        
+
         img { 
             display: block; 
             margin: 8px auto; 
-            margin-left: 10px;
-            width: 40px; 
+            margin-left: -4px;
+            width: 70px; 
             height: auto;
-            
+
             &.sub-logo { 
                 width: 62px; 
-                margin-top: -20px;
+                margin-top: -10px;
                 margin-left: 0px;
             }
         }

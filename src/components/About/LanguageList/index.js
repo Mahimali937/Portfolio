@@ -4,11 +4,6 @@ import "./index.scss";
 const LanguageList = () => {
   const [languages] = useState([
     {
-      name: "Python",
-      image:
-        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg",
-    },
-    {
       name: "C++",
       image:
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg",
@@ -19,9 +14,9 @@ const LanguageList = () => {
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg",
     },
     {
-      name: "JavaScript",
+      name: "CSS",
       image:
-        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg",
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg",
     },
     {
       name: "TypeScript",
@@ -29,14 +24,30 @@ const LanguageList = () => {
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg",
     },
     {
+      name: "JavaScript",
+      image:
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg",
+    },
+    {
+      name: "Python",
+      image:
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg",
+    },
+    {
       name: "HTML",
       image:
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg",
     },
     {
-      name: "CSS",
+      name: "Powershell",
       image:
-        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg",
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg",
+          
+    },
+    {
+      name: "Bash",
+      image:
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg",
     },
   ]);
 

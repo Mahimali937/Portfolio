@@ -5,14 +5,14 @@ import "./index.scss"
 const TechList = () => {
   const [techs] = useState([
     {
-      name: "AWS",
-      image:
-        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
-    },
-    {
       name: "React",
       image:
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
+    },
+    {
+      name: "React Native",
+      image: 
+        "https://cdn.worldvectorlogo.com/logos/react-native-1.svg",
     },
     {
       name: "Spring Boot",
@@ -20,9 +20,9 @@ const TechList = () => {
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg",
     },
     {
-      name: "PostgreSQL",
+      name: "AWS",
       image:
-        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg",
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
     },
     {
       name: "NextJS",
@@ -30,14 +30,9 @@ const TechList = () => {
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg",
     },
     {
-      name: "MongoDB",
+      name: "PostgreSQL",
       image:
-        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg",
-    },
-    {
-      name: "ExpressJS",
-      image:
-        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg",
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg",
     },
     {
       name: "NodeJS",
@@ -50,9 +45,44 @@ const TechList = () => {
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg",
     },
     {
+      name: "ExpressJS",
+      image:
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg",
+    },
+    {
+      name: "Pandas",
+      image:
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg",
+    },
+    {
+      name: "Numpy",
+      image:
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg",
+    },
+    {
       name: "Tailwind",
       image:
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+    },
+    {
+      name: "MongoDB",
+      image:
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg",
+    },
+    {
+      name: "Matplotlib",
+      image:
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg",
+    },
+    {
+      name: "Scikit-learn",
+      image:
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg",
+    },
+    {
+      name: "Supabase",
+      image:
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg",
     },
   ]);
 

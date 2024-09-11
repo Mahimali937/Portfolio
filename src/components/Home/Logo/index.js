@@ -1,11 +1,11 @@
-import LogoK from '../../../assets/images/M.png';
+import LogoM from '../../../assets/images/M.png';
 import './index.scss';
 
 const Logo = () => {
 
   return (
     <div className="logo-container">
-      <img className="solid-logo animate" src={LogoK} alt="JavaScript, Developer" />
+      <img className="solid-logo animate" src={LogoM} alt="JavaScript, Developer" />
       <svg
         version="1.0"
         xmlns="http://www.w3.org/2000/svg"
