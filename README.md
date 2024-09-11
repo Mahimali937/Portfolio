@@ -1,4 +1,4 @@
-# My Coding Portfolio
+# Mahim Ali's Coding Portfolio
 
 Welcome to my coding portfolio! This web application is built using ReactJS, showcasing my skills, projects, and achievements in the field of web development. You can check it out [here!]()
 
