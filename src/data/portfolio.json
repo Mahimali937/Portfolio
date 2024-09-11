@@ -1,0 +1,46 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/laliga.png", 
+            "title": "La Liga Zone Fantasy", 
+            "description": "ReactJS, PostgreSQL, Spring Boot, Python", 
+            "url": "https://laligazone.vercel.app/"
+        },
+        {
+            "cover": "/portfolio/soccer.png", 
+            "title": "SoccerHub", 
+            "description": "Reactjs, Supabase", 
+            "url": "https://soccerhub-sigma.vercel.app/"
+        },
+        {
+            "cover": "/portfolio/logo.png", 
+            "title": "La Liga Match Predictor", 
+            "description": "Python, Sci-kit Learn, Pandas", 
+            "url": "https://github.com/Mahimali937/La-Liga-Match-Predictor"
+        },
+        {
+            "cover": "/portfolio/shoe.png", 
+            "title": "SNKRKICKZ", 
+            "description": "HTML, CSS, Javascript", 
+            "url": "https://snkrkickz.vercel.app"
+        },
+        {
+            "cover": "/portfolio/cards.png", 
+            "title": "Soccer Flashcards", 
+            "description": "React", 
+            "url": "https://flashcards-one-livid.vercel.app/"
+        },
+        {
+            "cover": "/portfolio/rpg.png", 
+            "title": "Role Playing Game", 
+            "description": "C++", 
+            "url": "https://github.com/Mahimali937/Role-Playing-Game"
+        },
+        {
+            "cover": "/portfolio/hangman.png", 
+            "title": "Hangman", 
+            "description": "C++", 
+            "url": "https://github.com/Mahimali937/Hangman"
+        }
+    ]
+}

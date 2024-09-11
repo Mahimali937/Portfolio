@@ -1,0 +1,36 @@
+.dev-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  gap: 20px;
+}
+
+.dev-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #181818;
+  border: 1px solid #333;
+  border-radius: 12px;
+  padding-top: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 0 15px rgba(255, 255, 255, 0.5); 
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  width: 150px; 
+  text-align: center;
+}
+
+.dev-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 0 20px rgba(255, 255, 255, 0.7); 
+}
+
+.dev-icon {
+  width: 60px; 
+  height: 60px;
+  margin-bottom: 15px;
+}
+
+.dev-name {
+  font-size: 14px;
+  color: #333;
+}
