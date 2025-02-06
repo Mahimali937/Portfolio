@@ -4,6 +4,15 @@ import './index.scss';
 const Timeline = () => {
   const [events, setEvents] = useState([
     {
+      date: "February - May 2025",
+      title: "Administration for Children's Services  | Wireless Asset Management Intern",
+      description: [
+        "Incoming Intern leveraging <b>Microsoft Office</b>, <b>Outlook</b>/<b>Exchange</b>, and asset management systems to enhance inventory tracking"
+      ],
+      expanded: false,
+
+    },
+    {
       date: "June - August 2024",
       title: "Consolidated Edison | Network Engineer Intern",
       description: [
