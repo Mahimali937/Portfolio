@@ -8,7 +8,7 @@ const Timeline = () => {
       title: "NYC Administration for Children's Services  | Wireless Asset Management Intern",
       description: [
         "Integrated <b>Microsoft Office</b> tools, including <b>Excel</b> for device tracking, along with <b>Outlook</b>/<b>Exchange</b> and asset management systems to automate inventory reports, improving tracking accuracy and reducing administrative workload by <b>25%</b>",
-        "Administered an inventory of <b>100+ wireless assets</b> as part of the Mobile Technology Team, overseeing device assignments, returns, and lifecycle management, minimizing discrepancies by <b>30%</b> through targeted data-driven updates"
+        "Administered an inventory of <b>100+ wireless assets</b> as part of the mobile technology team, overseeing device assignments, returns, and lifecycle management, minimizing discrepancies by <b>30%</b> through targeted data-driven updates"
       ],
       expanded: false,
 
