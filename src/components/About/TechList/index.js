@@ -80,6 +80,11 @@ const TechList = () => {
       "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg",
     },
     {
+      name: "Django",
+      image:
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg",
+    },
+    {
       name: "Supabase",
       image:
       "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg",
