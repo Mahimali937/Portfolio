@@ -15,7 +15,7 @@
         {
             "cover": "/portfolio/soccer.png", 
             "title": "SoccerHub", 
-            "description": "Reactjs, Supabase", 
+            "description": "ReactJS, Supabase", 
             "url": "https://soccerhub-sigma.vercel.app/"
         },
         {
@@ -27,13 +27,13 @@
         {
             "cover": "/portfolio/shoe.png", 
             "title": "SNKRKICKZ", 
-            "description": "HTML, CSS, Javascript", 
+            "description": "HTML, CSS, JavaScript", 
             "url": "https://snkrkickz.vercel.app"
         },
         {
             "cover": "/portfolio/cards.png", 
             "title": "Soccer Flashcards", 
-            "description": "React", 
+            "description": "ReactJS", 
             "url": "https://flashcards-one-livid.vercel.app/"
         },
         {
