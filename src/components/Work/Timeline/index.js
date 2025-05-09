@@ -5,7 +5,7 @@ const Timeline = () => {
   const [events, setEvents] = useState([
     {
       date: "June - August 2025",
-      title: "Johns Hopkins University Applied Physics Laboratory | Software Engineer Intern",
+      title: "Johns Hopkins Applied Physics Laboratory | Software Engineer Intern",
       description: [
         "Incoming Software Engineer Intern for Summer 2025"
       ],
