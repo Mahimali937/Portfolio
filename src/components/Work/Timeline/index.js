@@ -49,7 +49,7 @@ const Timeline = () => {
       date: "June - August 2022",
       title: "The Salvation Army Astoria Corps Community Center | Tech Analyst",
       description: [
-        "Optimized document duplication protocols, securing <b>100+</b> client signatures and raised organizational productivity by processing documents <b>30%</b> faster",
+        "Optimized document duplication protocols, securing <b>100+</b> client signatures, and raised organizational productivity by processing documents <b>30%</b> faster",
         "Revamped operational procedures to elevate customer service, producing <b>50+</b> additional satisfied members per month",
         "Addressed <b>300+</b> technical queries with swift support, generating <b>$5,000</b> in annual savings and improving customer service ratings by <b>10%</b>",
         "Managed appointment scheduling and client interactions, shortening wait times by <b>20 minutes</b> per appointment and upgrading effectiveness",
