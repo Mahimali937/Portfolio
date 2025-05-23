@@ -29,7 +29,7 @@ const About = () => {
                         <AnimatedLetters letterClass={letterClass}  strArray = {"About me".split("")} idx={15}/>
                     </h1>
                     <p>
-                    Hey, I'm Mahim, a junior majoring in Computer Science with a minor in Mathematics. As an ambitious software developer, my diverse background has equipped me with a strong foundation in technical skills and problem-solving. I thrive in collaborative environments, where I leverage my effective communication skills and analytical mindset to address challenges and contribute to successful team projects. Whether it’s developing innovative solutions or tackling complex problems, I am dedicated to applying my knowledge and enthusiasm to drive impactful results. 
+                    Hey, I'm Mahim, a senior majoring in Computer Science with a minor in Mathematics. As an ambitious software developer, my diverse background has equipped me with a strong foundation in technical skills and problem-solving. I thrive in collaborative environments, where I leverage my effective communication skills and analytical mindset to address challenges and contribute to successful team projects. Whether it’s developing innovative solutions or tackling complex problems, I am dedicated to applying my knowledge and enthusiasm to drive impactful results. 
                     <br/>
                     <LanguageList />
                     <Link to="/about/tech" className="flat-button">FRAMEWORKS/TECHNOLOGIES</Link>
