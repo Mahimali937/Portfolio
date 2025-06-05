@@ -89,6 +89,11 @@ const TechList = () => {
       image:
       "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg",
     },
+    {
+      name: "Vue",
+      image:
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg",
+    },
   ]);
 
   return (
