@@ -1,16 +1,22 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/laliga.png", 
-            "title": "La Liga Zone Fantasy", 
-            "description": "ReactJS, PostgreSQL, Spring Boot, Python", 
-            "url": "https://laligazone.vercel.app/"
+            "cover": "/portfolio/FuelUp.png", 
+            "title": "FuelUp", 
+            "description": "TypeScript, NextJS, ExpressJS, PostgreSQL", 
+            "url": "https://fueluphunter.vercel.app/"
         },
         {
             "cover": "/portfolio/grademyprofessor.png", 
             "title": "GradeMyProfessor", 
             "description": "ReactJS, PostgreSQL, Django", 
             "url": "https://grademyprofessor.vercel.app/"
+        },
+        {
+            "cover": "/portfolio/laliga.png", 
+            "title": "La Liga Zone Fantasy", 
+            "description": "ReactJS, PostgreSQL, Spring Boot, Python", 
+            "url": "https://laligazone.vercel.app/"
         },
         {
             "cover": "/portfolio/soccer.png", 
