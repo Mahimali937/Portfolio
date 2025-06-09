@@ -14,6 +14,11 @@ const TechList = () => {
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg",
     },
     {
+      name: "Jest",
+      image:
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg",
+    },
+    {
       name: "Docker",
       image:
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg",

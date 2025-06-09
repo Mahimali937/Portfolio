@@ -3,25 +3,25 @@
         {
             "cover": "/portfolio/FuelUp.png", 
             "title": "FuelUp", 
-            "description": "TypeScript, NextJS, ExpressJS, PostgreSQL", 
+            "description": "TypeScript, Next.js, Express.js, PostgreSQL", 
             "url": "https://fueluphunter.vercel.app/"
         },
         {
             "cover": "/portfolio/grademyprofessor.png", 
             "title": "GradeMyProfessor", 
-            "description": "ReactJS, PostgreSQL, Django", 
+            "description": "React, PostgreSQL, Django", 
             "url": "https://grademyprofessor.vercel.app/"
         },
         {
             "cover": "/portfolio/laliga.png", 
             "title": "La Liga Zone Fantasy", 
-            "description": "ReactJS, PostgreSQL, Spring Boot, Python", 
+            "description": "React, PostgreSQL, Spring Boot, Python", 
             "url": "https://laligazone.vercel.app/"
         },
         {
             "cover": "/portfolio/soccer.png", 
             "title": "SoccerHub", 
-            "description": "ReactJS, Supabase", 
+            "description": "React, Supabase", 
             "url": "https://soccerhub-sigma.vercel.app/"
         },
         {
@@ -39,7 +39,7 @@
         {
             "cover": "/portfolio/cards.png", 
             "title": "Soccer Flashcards", 
-            "description": "ReactJS", 
+            "description": "React", 
             "url": "https://flashcards-one-livid.vercel.app/"
         },
         {
