@@ -27,7 +27,7 @@
         {
             "cover": "/portfolio/logo.png", 
             "title": "La Liga Match Predictor", 
-            "description": "Python, Sci-kit Learn, Pandas", 
+            "description": "Python, Scikit-Learn, Pandas", 
             "url": "https://github.com/Mahimali937/La-Liga-Match-Predictor"
         },
         {
