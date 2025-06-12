@@ -26,11 +26,11 @@ const Timeline = () => {
       date: "June - August 2024",
       title: "Consolidated Edison | Network Engineer Intern",
       description: [
-        "Selected from a pool of <b>50+</b> individuals as <b>Harlem YMCA Bai</b> intern for Con Edison",
         "Architected and crafted a <b>Clipboard API</b> using <b>JavaScript, HTML,</b> and <b>CSS</b>, eliminating manual copying tasks and conserving about <b>20 minutes</b> daily for team members",
         "Developed a <b>PowerShell</b> script to check for <b>100+</b> broken links and created a detailed <b>CSV report</b> with <b>Excel</b>, refining site navigation and saving <b>15 hours</b> of maintenance time monthly",
+        "Applied <b>Git</b> protocols for <b>version control</b> and <b>code updates</b>, minimizing integration errors and avoiding <b>$1,000</b> in annual costs by preventing costly deployment mistakes",
         "Facilitated the identification of unlabeled circuits, applying <b>OSI model</b> principles to streamline network troubleshooting and reducing <b>12 hours</b> of team effort during critical issues",
-        "Applied <b>Git</b> protocols for <b>version control</b> and <b>code updates</b>, minimizing integration errors and avoiding <b>$1,000</b> in annual costs by preventing costly deployment mistakes"
+        "Selected from a pool of <b>50+</b> individuals as <b>Harlem YMCA Bai</b> intern for Con Edison"
       ],
       expanded: false,
     },
@@ -38,10 +38,10 @@ const Timeline = () => {
       date: "June - August 2023",
       title: "NYC Department of Social Services | IT Help Desk",
       description: [
-        "Spearheaded a team of <b>10+</b> employees to train new hires in on-site analysis and corrective measures, maximizing team capabilities by accelerating task completion time by <b>15 minutes per task</b>",
+        "Leveraged <b>Salesforce</b> and <b>Excel</b> to ameliorate operations, cutting <b>$10,000</b> in annual costs and reinforcing workflow competency",
         "Resolved <b>200+</b> customer inquiries by managing inbound calls and deploying solutions, attaining a <b>95% satisfaction rate</b>",
-        "Collaborated with cross-functional teams to meet and exceed critical document deadlines, expediting document completion speed by <b>2 hours per project</b>",
-        "Leveraged <b>Salesforce</b> and <b>Excel</b> to ameliorate operations, cutting <b>$10,000</b> in annual costs and reinforcing workflow competency"
+        "Spearheaded a team of <b>10+</b> employees to train new hires in on-site analysis and corrective measures, maximizing team capabilities by accelerating task completion time by <b>15 minutes per task</b>",
+        "Collaborated with cross-functional teams to meet and exceed critical document deadlines, expediting document completion speed by <b>2 hours per project</b>"
       ],
       expanded: false,
     },
