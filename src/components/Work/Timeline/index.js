@@ -29,7 +29,7 @@ const Timeline = () => {
         "Architected and crafted a <b>Clipboard API</b> using <b>JavaScript, HTML,</b> and <b>CSS</b>, eliminating manual copying tasks and conserving about <b>20 minutes</b> daily for team members",
         "Developed a <b>PowerShell</b> script to check for <b>100+</b> broken links and created a detailed <b>CSV report</b> with <b>Excel</b>, refining site navigation and saving <b>15 hours</b> of maintenance time monthly",
         "Applied <b>Git</b> protocols for <b>version control</b> and <b>code updates</b>, minimizing integration errors and avoiding <b>$1,000</b> in annual costs by preventing costly deployment mistakes",
-        "Facilitated the identification of unlabeled circuits, applying <b>OSI model</b> principles to streamline network troubleshooting and reducing <b>12 hours</b> of team effort during critical issues",
+        "Facilitated identification and labeling of unlabeled circuits, configured <b>Cisco routers</b>, interfaces, and <b>static routing</b>, and applied <b>OSI model principles</b> to streamline network troubleshooting, reducing <b>12 hours</b> of team effort during critical issues",
         "Selected from a pool of <b>50+</b> individuals as <b>Harlem YMCA Bai</b> intern for Con Edison"
       ],
       expanded: false,
