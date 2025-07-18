@@ -44,7 +44,7 @@ const Timeline = () => {
         "Enhanced <b>Salesforce</b> and <b>Excel</b> workflows, cutting <b>$10,000</b> in annual costs and elevating data accuracy by <b>60%</b> across departments",
         "Resolved <b>200+</b> technical support tickets by managing inbound calls and deploying solutions, attaining a <b>95% satisfaction rate</b>",
         "Spearheaded a team of <b>10+</b> to train new hires on diagnostics and troubleshooting, accelerating task completion time by <b>15 minutes</b>",
-        "Collaborated with engineering and product to optimize document systems, expediting document processing by <b>2 hours per project</b>"
+        "Collaborated with engineering and product teams to optimize document systems, expediting document processing by <b>2 hours per project</b>"
       ],
       expanded: false,
     },
