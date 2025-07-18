@@ -42,7 +42,7 @@ const Timeline = () => {
       title: "NYC Department of Social Services | IT Help Desk",
       description: [
         "Leveraged <b>Salesforce</b> and <b>Excel</b> to improve operations, cutting <b>$10,000</b> in annual costs and enhancing workflow efficiency",
-        "Resolved <b>200+</b> technical support tickets by managing inbound calls and deploying solutions, attaining a <b>95% customer satisfaction rate</b>",
+        "Resolved <b>200+</b> technical support tickets by managing inbound calls and deploying solutions, attaining a <b>95% satisfaction rate</b>",
         "Spearheaded a team of <b>10+</b> to train new hires on diagnostics and troubleshooting, accelerating task completion time by <b>15 minutes</b>",
         "Collaborated with engineering and operations to optimize document systems, expediting document processing time by <b>2 hours per project</b>"
       ],
