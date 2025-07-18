@@ -7,9 +7,9 @@ const Timeline = () => {
       date: "June - August 2025",
       title: "Johns Hopkins Applied Physics Laboratory | Software Engineer Intern",
       description: [
-        "Developing a <b>Python</b> tool leveraging <b>NetworkX</b>, <b>graph algorithms</b>, <b>YAML</b>-defined scenarios, and <b>Docker</b>-based <b>GNS3</b> with <b>iPerf</b> traffic simulation validated using <b>Wireshark</b> to optimize mission-critical <b>C3 network topologies</b>, improving performance by <b>50%</b>",
         "Engineering <b>GitLab</b> <b>CI/CD</b> pipelines using <b>Node.js</b> with integrated <b>Fortify</b> <b>SAST</b> and <b>DAST</b> scans, cutting manual build time by <b>65%</b> while enforcing secure, production-ready deployments",
         "Implementing <b>25+</b> frontend unit and integration tests for a <b>Vue.js</b> <b>GUI</b> using <b>AstroUX</b>, <b>Jest</b>, and <b>TypeScript</b>, boosting <b>UI</b> code coverage by <b>40%</b> and enabling rapid regression detection",
+        "Developing a <b>Python</b> tool leveraging <b>NetworkX</b>, <b>graph algorithms</b>, <b>YAML</b>-defined scenarios, and <b>Docker</b>-based <b>GNS3</b> with <b>iPerf</b> traffic simulation validated using <b>Wireshark</b> to optimize mission-critical <b>C3 network topologies</b>, improving performance by <b>50%</b>",
         "Validating telemetry dashboards for <b>RF signal processing</b>, increasing observability by <b>45%</b> and reducing diagnosis time by <b>35%</b>"
       ],
       expanded: false,
@@ -41,10 +41,10 @@ const Timeline = () => {
       date: "June - August 2023",
       title: "NYC Department of Social Services | IT Help Desk",
       description: [
-        "Leveraged <b>Salesforce</b> and <b>Excel</b> to ameliorate operations, cutting <b>$10,000</b> in annual costs and reinforcing workflow competency",
-        "Resolved <b>200+</b> customer inquiries by managing inbound calls and deploying solutions, attaining a <b>95% satisfaction rate</b>",
-        "Spearheaded a team of <b>10+</b> employees to train new hires in on-site analysis and corrective measures, maximizing team capabilities by accelerating task completion time by <b>15 minutes per task</b>",
-        "Collaborated with cross-functional teams to meet and exceed critical document deadlines, expediting document completion speed by <b>2 hours per project</b>"
+        "Leveraged <b>Salesforce</b> and <b>Excel</b> to improve operations, cutting <b>$10,000</b> in annual costs and enhancing workflow efficiency",
+        "Resolved <b>200+</b> technical support tickets by managing inbound calls and deploying solutions, attaining a <b>95% customer satisfaction rate</b>",
+        "Spearheaded a team of <b>10+</b> to train new hires on diagnostics and troubleshooting, accelerating task completion time by <b>15 minutes</b>",
+        "Collaborated with engineering and operations to optimize document systems, expediting document processing time by <b>2 hours per project</b>"
       ],
       expanded: false,
     },
