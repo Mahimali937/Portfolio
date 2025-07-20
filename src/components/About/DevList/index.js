@@ -14,14 +14,54 @@ const TechList = () => {
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg",
     },
     {
-      name: "Jest",
+      name: "AWS",
       image:
-        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg",
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
+    },
+    {
+      name: "PostgreSQL",
+      image:
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg",
+    },
+    {
+      name: "Jira",
+      image:
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg",
+    },
+    {
+      name: "Azure",
+      image:
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg",
+    },
+    {
+      name: "Unix",
+      image:
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg",
+    },
+    {
+      name: "Supabase",
+      image:
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg",
+    },
+    {
+      name: "MongoDB",
+      image:
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg",
     },
     {
       name: "Docker",
       image:
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg",
+    },
+    {
+      name: "Google Cloud Platform",
+      image:
+       "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg",
+    },
+    {
+      name: "Firebase",
+      image:
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg",
     },
     {
       name: "IntelliJ IDEA",

@@ -20,32 +20,22 @@ const TechList = () => {
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg",
     },
     {
-      name: "AWS",
-      image:
-        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
-    },
-    {
-      name: "NextJS",
+      name: "Next.js",
       image:
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg",
     },
     {
-      name: "PostgreSQL",
-      image:
-        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg",
-    },
-    {
-      name: "NodeJS",
+      name: "Node.js",
       image:
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg",
     },
     {
-      name: "Firebase",
+      name: "Jest",
       image:
-        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg",
+        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg",
     },
     {
-      name: "ExpressJS",
+      name: "Express.js",
       image:
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg",
     },
@@ -55,7 +45,7 @@ const TechList = () => {
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg",
     },
     {
-      name: "Numpy",
+      name: "NumPy",
       image:
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg",
     },
@@ -63,11 +53,6 @@ const TechList = () => {
       name: "Tailwind",
       image:
         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
-    },
-    {
-      name: "MongoDB",
-      image:
-        "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg",
     },
     {
       name: "Matplotlib",
@@ -85,12 +70,17 @@ const TechList = () => {
       "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg",
     },
     {
-      name: "Supabase",
+      name: "Flask",
       image:
-      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg",
     },
     {
-      name: "Vue",
+      name: "PyTorch",
+      image:
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg",
+    },
+    {
+      name: "Vue.js",
       image:
       "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg",
     },
@@ -98,7 +88,7 @@ const TechList = () => {
 
   return (
     <div>
-      <h2>Development Tools</h2>
+      <h2>Frameworks & Technologies</h2>
       <div className="tech-list-container">
         {techs.map((tech, index) => (
           <div key={index} className="tech-card">
