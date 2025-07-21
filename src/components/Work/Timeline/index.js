@@ -8,7 +8,7 @@ const Timeline = () => {
       title: "Johns Hopkins Applied Physics Laboratory | Software Engineer Intern",
       description: [
         "Engineering <b>GitLab</b> <b>CI/CD</b> pipelines using <b>Node.js</b> with integrated <b>Fortify</b> <b>SAST</b> and <b>DAST</b> scans, cutting manual build time by <b>65%</b> while enforcing secure, production-ready deployments",
-        "Implementing <b>25+</b> frontend unit and integration tests for a <b>Vue.js</b> GUI integrated with backend APIs using <b>TypeScript</b>, <b>Jest</b>, and <b>AstroUX</b>, boosting UI code coverage by <b>40%</b> and enabling rapid regression detection",
+        "Implementing <b>25+</b> frontend unit and integration tests for a <b>Vue.js</b> GUI integrated with RESTful backend APIs using <b>TypeScript</b>, <b>Jest</b>, and <b>AstroUX</b>, boosting UI code coverage by <b>40%</b> and enabling rapid regression detection",
         "Developing a <b>Python</b> tool leveraging <b>NetworkX</b>, <b>graph algorithms</b>, <b>YAML</b>-defined scenarios, and <b>Docker</b>-based <b>GNS3</b> with <b>iPerf</b> traffic simulation, validated using <b>Wireshark</b>, to optimize mission-critical <b>C3 network topologies</b>, improving performance by <b>50%</b>",
         "Validating telemetry dashboards for <b>RF signal processing</b>, increasing observability by <b>45%</b> and reducing diagnosis time by <b>35%</b>"
       ],
