@@ -31,7 +31,7 @@ const Timeline = () => {
       description: [
         "Designed a <b>Clipboard API</b> using <b>JavaScript, HTML,</b> and <b>CSS</b>, eliminating manual copying tasks and conserving <b>80+ hours</b> per year for team members",
         "Developed a <b>PowerShell</b> script to check for <b>100+</b> broken links and created a detailed <b>CSV report</b> with <b>Excel</b>, refining site navigation and saving <b>150+ hours</b> of maintenance time annually",
-        "Applied <b>Git</b> protocols for <b>version control</b> and <b>code updates</b>, preventing <b>$1,000</b> in annual costs by avoiding costly deployment mistakes",
+        "Applied <b>Git</b> protocols for <b>version control</b> and <b>code updates</b>, preventing <b>$1,000</b> in annual costs by avoiding deployment mistakes",
         "Streamlined network troubleshooting by reducing <b>12 hours</b> of team effort on critical issues through identifying and labeling unlabeled circuits, configuring <b>Cisco routers</b> and <b>static routing</b> using <b>PuTTY</b>, and applying <b>OSI model principles</b>",
         "Selected from a pool of <b>50+</b> individuals as <b>Harlem YMCA Bai</b> intern for Con Edison"
       ],
