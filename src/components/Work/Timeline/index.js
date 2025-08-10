@@ -20,7 +20,7 @@ const Timeline = () => {
       title: "NYC Administration for Children's Services | Wireless Asset Management Intern",
       description: [
         "Automated reporting pipelines with <b>Excel</b> and <b>Exchange</b> integrations, increasing inventory data accuracy by <b>25%</b> and reducing manual reporting time by <b>20 hours</b> monthly",
-        "Orchestrated lifecycle tracking for <b>100+ wireless devices</b> using <b>Excel</b> and asset management tools, improving data integrity by <b>28%</b> through structured audits and automated validation workflows"
+        "Orchestrated lifecycle tracking for <b>100+ wireless devices</b> using <b>Excel</b> and asset management tools, improving data integrity by <b>28%</b> through automated validation workflows and structured audits"
       ],
       expanded: false,
 
