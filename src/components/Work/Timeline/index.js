@@ -43,7 +43,7 @@ const Timeline = () => {
       description: [
         "Enhanced <b>Salesforce</b> and <b>Excel</b> workflows, cutting <b>$10,000</b> in annual costs and elevating data accuracy by <b>60%</b> across departments",
         "Resolved <b>200+</b> technical issues for end-users, including software installation and configuration, achieving a <b>95% satisfaction rate</b>",
-        "Managed ticketing systems to track <b>120+</b> incidents, accelerating resolution time by <b>15 minutes</b> and gaining exposure to IT infrastructure",
+        "Revamped ticketing systems to track <b>120+</b> incidents, accelerating resolution time by <b>15 minutes</b> and gaining exposure to IT infrastructure",
         "Collaborated with engineering and product teams to optimize document systems, expediting document processing by <b>2 hours per project</b>"
       ],
       expanded: false,
