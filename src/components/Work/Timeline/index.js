@@ -19,8 +19,8 @@ const Timeline = () => {
       date: "January - April 2025",
       title: "NYC Administration for Children's Services | Wireless Asset Management Intern",
       description: [
-        "Automated inventory reports by integrating <b>Excel</b>, <b>Outlook</b>/<b>Exchange</b>, and asset management systems, improving tracking accuracy and reducing administrative workload by <b>25%</b>",
-        "Administered an inventory of <b>100+ wireless assets</b> as part of the mobile technology team, overseeing device assignments, returns, and lifecycle management, minimizing discrepancies by <b>30%</b> through targeted data-driven updates"
+        "Automated reporting pipelines with <b>Excel</b> and <b>Exchange</b> integrations, increasing inventory data accuracy by <b>25%</b> and reducing manual reporting time by <b>20 hours</b> monthly",
+        "Orchestrated lifecycle tracking for <b>100+ wireless devices</b> using <b>Excel</b> and asset management tools, improving data integrity by <b>28%</b> through structured audits and automated validation workflows"
       ],
       expanded: false,
 
@@ -42,8 +42,8 @@ const Timeline = () => {
       title: "NYC Department of Social Services | IT Help Desk",
       description: [
         "Enhanced <b>Salesforce</b> and <b>Excel</b> workflows, cutting <b>$10,000</b> in annual costs and elevating data accuracy by <b>60%</b> across departments",
-        "Resolved <b>200+</b> technical support tickets by managing inbound calls and deploying solutions, attaining a <b>95% satisfaction rate</b>",
-        "Spearheaded a team of <b>10+</b> to train new hires on diagnostics and troubleshooting, accelerating task completion time by <b>15 minutes</b>",
+        "Resolved <b>200+</b> technical issues for end-users, including software installation and configuration, achieving a <b>95% satisfaction rate</b>",
+        "Managed ticketing systems to track <b>120+</b> incidents, accelerating resolution time by <b>15 minutes</b> and gaining exposure to IT infrastructure",
         "Collaborated with engineering and product teams to optimize document systems, expediting document processing by <b>2 hours per project</b>"
       ],
       expanded: false,
