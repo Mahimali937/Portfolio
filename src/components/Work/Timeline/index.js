@@ -39,7 +39,7 @@ const Timeline = () => {
     },
     {
       date: "June - August 2023",
-      title: "NYC Department of Social Services | IT Help Desk",
+      title: "NYC Department of Social Services | Software Engineer Intern",
       description: [
         "Enhanced <b>Salesforce</b> and <b>Excel</b> workflows, cutting <b>$10,000</b> in annual costs and elevating data accuracy by <b>60%</b> across departments",
         "Resolved <b>200+</b> technical issues for end-users, including software installation and configuration, achieving a <b>95% satisfaction rate</b>",
