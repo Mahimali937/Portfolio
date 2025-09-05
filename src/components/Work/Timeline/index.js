@@ -29,7 +29,7 @@ const Timeline = () => {
       date: "June - August 2024",
       title: "Consolidated Edison | Network Engineer Intern",
       description: [
-        "Designed a <b>Clipboard API</b> using <b>JavaScript, HTML,</b> and <b>CSS</b>, eliminating manual copying tasks for internal network documentation and conserving <b>80+ hours</b> per year for team members",
+        "Designed a <b>Clipboard API</b> using <b>JavaScript, HTML,</b> and <b>CSS</b>, eliminating manual copying tasks in internal network documentation and conserving <b>80+ hours</b> per year for team members",
         "Developed a <b>PowerShell</b> script to check for <b>100+</b> broken links and created a detailed <b>CSV report</b> with <b>Excel</b>, refining site navigation and saving <b>150+ hours</b> of maintenance time annually",
         "Applied <b>Git</b> protocols for <b>version control</b> and <b>code updates</b>, preventing <b>$1,000</b> in annual costs by avoiding deployment mistakes",
         "Streamlined network troubleshooting by reducing <b>12 hours</b> of team effort on critical issues through identifying and labeling unlabeled circuits, configuring <b>Cisco routers</b> and <b>static routing</b> using <b>PuTTY</b>, and applying <b>OSI model principles</b>",
