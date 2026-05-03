@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import ProgressBar from "../ProgressBar";
 import "./index.scss"
 
 const TechList = () => {
