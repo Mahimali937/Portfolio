@@ -10,7 +10,7 @@ const Timeline = () => {
         "Engineered <b>GitLab</b> <b>CI/CD</b> pipelines using <b>Node.js</b> with integrated <b>Fortify</b> <b>SAST</b> and <b>DAST</b> scans, cutting manual build time by <b>65%</b> while enforcing secure, production-ready deployments",
         "Implemented <b>25+</b> frontend unit and integration tests for a <b>Vue.js</b> GUI integrated with <b>RESTful backend APIs</b> using <b>TypeScript</b>, <b>Jest</b>, and <b>AstroUX</b>, boosting UI code coverage by <b>40%</b> and enabling rapid regression detection",
         "Developed a <b>Python</b> tool leveraging <b>NetworkX</b>, <b>graph algorithms</b>, <b>YAML</b>-defined scenarios, and <b>Docker</b>-based <b>GNS3</b> with <b>iPerf</b> traffic simulation, validated using <b>Wireshark</b>, to optimize mission-critical <b>C3 network topologies</b>, improving performance by <b>50%</b>",
-        "Validated telemetry dashboards for <b>RF signal processing</b>, increasing observability by <b>45%</b> and reducing diagnosis time by <b>35%</b>"
+        "Debugged <b>RF signal</b> telemetry dashboards, increasing system observability by <b>45%</b> and reducing fault diagnosis time by <b>35%</b>"
       ],
       expanded: false,
 
@@ -31,7 +31,7 @@ const Timeline = () => {
       description: [
         "Designed a <b>Clipboard API</b> using <b>JavaScript, HTML,</b> and <b>CSS</b>, eliminating manual copying tasks in internal network documentation, and conserving <b>80+ hours</b> per year for team members",
         "Developed a <b>PowerShell</b> script to check for <b>100+</b> broken links and created a detailed <b>CSV report</b> with <b>Excel</b>, refining site navigation and saving <b>150+ hours</b> of maintenance time annually",
-        "Applied <b>Git</b> protocols for <b>version control</b> and <b>code updates</b>, preventing <b>$1,000</b> in annual costs by avoiding deployment mistakes",
+        "Enforced <b>Git</b> protocols for <b>version control</b> and <b>code review</b> practices, preventing <b>$1,000</b> in annual costs from deployment errors",
         "Streamlined network troubleshooting by reducing <b>12 hours</b> of team effort on critical issues through identifying and labeling unlabeled circuits, configuring <b>Cisco routers</b> and <b>static routing</b> using <b>PuTTY</b>, and applying <b>OSI model principles</b>",
         "Selected from a pool of <b>50+</b> individuals as <b>Harlem YMCA Bai</b> intern for Con Edison"
       ],
@@ -44,7 +44,7 @@ const Timeline = () => {
         "Enhanced <b>Salesforce</b> and <b>Excel</b> workflows, cutting <b>$10,000</b> in annual costs and elevating data accuracy by <b>60%</b> across departments",
         "Resolved <b>200+</b> technical issues for end-users, including software installation and configuration, achieving a <b>95% satisfaction rate</b>",
         "Revamped ticketing systems to track <b>120+</b> incidents, accelerating resolution time by <b>15 minutes</b> and supporting IT infrastructure",
-        "Collaborated with engineering and product teams to optimize document systems, expediting document processing by <b>2 hours per project</b>"
+        "Optimized document management systems with engineering and product teams, expediting processing by <b>2 hours per project</b>"
       ],
       expanded: false,
     },
