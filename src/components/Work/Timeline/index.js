@@ -27,7 +27,7 @@ const Timeline = () => {
     },
     {
       date: "June - August 2024",
-      title: "Consolidated Edison | Network Engineer Intern",
+      title: "Consolidated Edison | Software Engineer Intern",
       description: [
         "Designed a <b>Clipboard API</b> using <b>JavaScript, HTML,</b> and <b>CSS</b>, eliminating manual copying tasks in internal network documentation, and conserving <b>80+ hours</b> per year for team members",
         "Developed a <b>PowerShell</b> script to check for <b>100+</b> broken links and created a detailed <b>CSV report</b> with <b>Excel</b>, refining site navigation and saving <b>150+ hours</b> of maintenance time annually",
