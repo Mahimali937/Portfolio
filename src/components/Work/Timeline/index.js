@@ -4,6 +4,17 @@ import './index.scss';
 const Timeline = () => {
   const [events, setEvents] = useState([
     {
+      date: "June - August 2026",
+      title: "NineDot Energy | Software Engineer Intern",
+      description: [
+        "Deployed a <b>Python</b> ETL pipeline on <b>GCP Cloud Run</b> to ingest Fieldwire RFI data into Airtable, enabling document tracking across <b>100+</b> active construction projects",
+        "Architected a <b>GCP Pub/Sub</b> event-driven webhook system replacing <b>9</b> fragile <b>JavaScript</b> Airtable automations across <b>2</b> pipelines, eliminating <b>100%</b> of silent failures with automatic retry and DLQ handling",
+        "Provisioned Pub/Sub infrastructure and Cloud Run triggers using <b>Terraform</b>, implementing Cloud Monitoring Slack alerts and cutting failure investigation time by <b>5+ hours</b> weekly"
+      ],
+      expanded: false,
+
+    },
+    {
       date: "June - August 2025",
       title: "Johns Hopkins Applied Physics Laboratory | Software Engineer Intern",
       description: [
